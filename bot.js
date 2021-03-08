@@ -106,4 +106,4 @@ client.on('error', e => {
   console.log(chalk.bgRed(e.replace(regToken, 'that was redacted')));
 });
 
-client.login("ODE4MTA2ODEwMTQxNTA3NjA1.YETPVw.kOkmil0Q4nMUJ5pqBZ1Sk0qXPFE");
+client.login();
